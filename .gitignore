@@ -1,5 +1,9 @@
 /.vscode
+/hand_detection_test.py
 /hand_landmarker.task
 /LICENSE
+/magic_paint.py
+/model.py
 /pan_tilt.zip
+/README.md
 /STM32F103C8T6串口控制舵机.zip
