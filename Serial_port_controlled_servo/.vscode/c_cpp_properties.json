@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "STM32F103C8T6",
+            "includePath": [
+                "${workspaceFolder}/CMSIS",
+                "${workspaceFolder}/Lib/inc",
+                "${workspaceFolder}/Basic/usart",
+                "${workspaceFolder}/Basic/delay",
+                "${workspaceFolder}/Basic/sys",
+                "${workspaceFolder}/Hardware/Steer",
+                "${workspaceFolder}/User"
+            ],
+            "defines": [
+                "STM32F10X_MD",
+                "USE_STDPERIPH_DRIVER"
+            ],
+            "compilerPath": "",
+            "cStandard": "c99",
+            "intelliSenseMode": "windows-msvc-arm",
+            "compilerArgs": []
+        }
+    ],
+    "version": 4
+}
